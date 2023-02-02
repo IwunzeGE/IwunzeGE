@@ -1,5 +1,7 @@
+[![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Iwunze Godspower Ekene</h1>
 <h3 align="center">A passionate cloud devops engineer from Nigeria</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iwunzege&label=Profile%20views&color=0e75b6&style=flat" alt="iwunzege" /> </p>
 
@@ -7,7 +9,7 @@
 
 - 🌱 I’m currently learning **Azure devops tools and GoLang**
 
-- 💬 Ask me about **Cloud & Server infrastructure, micro- services, container orchestration and AWS services**
+- 💬 Ask me about **Cloud & Server infrastructure, micro-services, container orchestration and AWS services**
 
 - 📫 How to reach me **iwunze.godspower@yahoo.com**
 
